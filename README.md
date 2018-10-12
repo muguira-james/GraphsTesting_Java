@@ -2,8 +2,8 @@ These are various studies of java
 
 There are 3 projects here:
 
-+ GraphDB_v0 - the basic data structure to
-+ Qwest2 - A study in JUnit and Cucumber testing using the Graph
++ GraphDB_v0 - the basic data structure
++ Qwest2 - A study in JUnit and Cucumber testing using the Graph ADT
 + BackRiver - a study in placing the Graph behind a Spring boot REST service
 
 
