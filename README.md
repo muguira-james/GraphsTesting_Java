@@ -12,3 +12,9 @@ The basic idea is to create a Graph ADT.  This study only implements the Adjcenc
 The project flows from the basic Graph ADT (GraphDB_v0) to Qwest2, which is a full example of applying Cucmber to handle BDD, to BackRiver.  BackRiver changed the GraphDB ADT to make better use of the JSON package Jackson (default Jackson wants methods of the form: getSomething, setSomething to generate JSON).
 
 Notice that BackRiver and Qwest2 are gradle projects.
+
+These projects are linked to from my blog (https//muguira-james.github.io):
+
++ GraphDB_v0 is the sample code for "JUint Testing in Java"
++ Qwest2 is the sample code for "Cucumber Testing in Java"
+
