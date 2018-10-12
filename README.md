@@ -13,7 +13,7 @@ The project flows from the basic Graph ADT (GraphDB_v0) to Qwest2, which is a fu
 
 Notice that BackRiver and Qwest2 are gradle projects.
 
-These projects are linked to from my blog (https//muguira-james.github.io):
+These projects are linked to from my blog (https://muguira-james.github.io):
 
 + GraphDB_v0 is the sample code for "JUint Testing in Java"
 + Qwest2 is the sample code for "Cucumber Testing in Java"
