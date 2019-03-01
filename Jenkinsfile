@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'cd Qwest2; ./gradlew build\'
+        sh 'cd Qwest2; ./gradlew build '
       }
     }
   }
